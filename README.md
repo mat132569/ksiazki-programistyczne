@@ -1,7 +1,7 @@
 ksiazki-programistyczne
 =======================
 
-tytuły do przeczytania
+ tytuły do przeczytania
 1. http://helion.pl/ksiazki/php-i-mysql-tworzenie-stron-www-vademecum-profesjonalisty-wydanie-czwarte-luke-welling-laura-thomson,phms4v.htm
 2. http://helion.pl/ksiazki/oracle-pl-sql-wprowadzenie-bill-pribyl-steven-feuerstein,orplsq.htm
 3. http://helion.pl/ksiazki/java-podstawy-wydanie-ix-cay-s-horstmann-gary-cornell,javpd9.htm
