@@ -6,8 +6,7 @@ ksiazki-programistyczne
 * http://helion.pl/ksiazki/php-i-mysql-dla-kazdego-wydanie-ii-marcin-lis,phmdk2.htm#format/e 
  _zdecydowanie tak_
  **PL/SQL**
-* http://helion.pl/ksiazki/oracle-pl-sql-wprowadzenie-bill-pribyl-steven-feuerstein,orplsq.htm 
- _w miare spoko_
+* http://helion.pl/ksiazki/oracle-pl-sql-wprowadzenie-bill-pribyl-steven-feuerstein,orplsq.htm _w miare spoko
   **JAVA**
 * http://helion.pl/ksiazki/efektywne-programowanie-w-jezyku-java-joshua-bloch,jappjp.htm
 * http://helion.pl/ksiazki/java-podstawy-wydanie-ix-cay-s-horstmann-gary-cornell,javpd9.htm
