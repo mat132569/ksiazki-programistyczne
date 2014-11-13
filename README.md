@@ -2,7 +2,7 @@ ksiazki-programistyczne
 =======================
 
  tytuły do przeczytania
- 1. ** PHP/MySQL**
+ 1. **PHP/MySQL**
 * http://helion.pl/ksiazki/php-i-mysql-dla-kazdego-wydanie-ii-marcin-lis,phmdk2.htm#format/e 
  _zdecydowanie tak_
  2. **PL/SQL**
