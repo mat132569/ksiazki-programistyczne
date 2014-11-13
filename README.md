@@ -15,7 +15,7 @@ ksiazki-programistyczne
 * http://helion.pl/ksiazki/java-rusz-glowa-wydanie-ii-kathy-sierra-bert-bates,javrg2.htm
 * http://helion.pl/ksiazki/java-cwiczenia-praktyczne-wydanie-iv-marcin-lis,cwjav4.htm 
  _zdecyduj sie, polski autor, brak bledow z tlumeczeniem_
- ** C sharp w VISUAL STUDIO**
+ **C sharp w VISUAL STUDIO**
 * http://helion.pl/ksiazki/visual-studio-2013-podrecznik-programowania-w-c-z-zadaniami-jacek-matulewski,vs12pa.htm
  _zdecydowanie tak_
 * http://helion.pl/ksiazki/asp-net-mvc-4-zaawansowane-programowanie-adam-freeman-steven-sanderson,aspmv4.htm#opis _zdecydowanie tak_
