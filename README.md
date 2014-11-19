@@ -8,7 +8,7 @@ ksiazki-programistyczne
  2. **PL/SQL**
 * http://helion.pl/ksiazki/oracle-pl-sql-wprowadzenie-bill-pribyl-steven-feuerstein,orplsq.htm _w miare_ spoko
  3. **JAVA**
-* http://helion.pl/ksiazki/efektywne-programowanie-w-jezyku-java-joshua-bloch,jappjp.htm
+* http://helion.pl/ksiazki/java-ee-6-tworzenie-aplikacji-w-netbeans-7-david-r-heffelfinger,jave6n.htm
 * http://helion.pl/ksiazki/java-podstawy-wydanie-ix-cay-s-horstmann-gary-cornell,javpd9.htm
  _lub_
 * http://helion.pl/ksiazki/java-rusz-glowa-wydanie-ii-kathy-sierra-bert-bates,javrg2.htm
