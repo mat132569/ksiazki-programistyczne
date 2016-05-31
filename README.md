@@ -4,7 +4,7 @@ ksiazki-programistyczne
  tytuły do przeczytania
  1. **PHP/MySQL**
 * http://helion.pl/ksiazki/php-i-mysql-dla-kazdego-wydanie-ii-marcin-lis,phmdk2.htm#format/e 
- _zdecydowanie tak_
+ _zdecydowanie tak_ bezZe
  2. **PL/SQL**
 * http://helion.pl/ksiazki/oracle-pl-sql-wprowadzenie-bill-pribyl-steven-feuerstein,orplsq.htm _w miare_ spoko
 * http://helion.pl/ksiazki/oracle9i-programowanie-w-jezyku-pl-sql-scott-urman,or9pls.htm#szczegoly ściągajpdF! warto 
